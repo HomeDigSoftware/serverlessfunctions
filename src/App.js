@@ -1,6 +1,6 @@
 import './App.css';
 import React, { Component } from 'react';
-import { CardList } from './components/Card-List/Card-list.Component';
+import { CardList } from './components/Card-List/Card-list.Component.jsx';
 import { SearchBox } from './components/search-box/Search-box.component.jsx'
 
 
