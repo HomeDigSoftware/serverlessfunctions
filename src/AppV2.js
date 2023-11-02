@@ -4,7 +4,7 @@ import React, { Component, useState } from 'react';
 
 
 export default function AppV2(){
-    const [data , setData] = useState({});
+    const [data , setData] = useState();
     const [show , setShow] = useState(false);
 
    
@@ -27,7 +27,7 @@ function GetApi({data  , setData}){
 
     return(
         <div>
-           
+           {/* lets try it  */}
         </div>
     )
 }
